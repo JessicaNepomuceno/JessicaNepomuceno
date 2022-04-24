@@ -43,13 +43,18 @@
 <br />
 
 ---
-<a href="https://github.com/JessicaNepomuceno">
-<img align="center" height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JessicaNepomuceno&layout=compact&langs_count=7&theme=dracula"/>
 
-<br />
-<br />
+  <a href="https://github.com/JessicaNepomuceno">
+  <img align="center" height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JessicaNepomuceno&layout=compact&langs_count=7&theme=dracula"/>
+
   
-<img align="center" height="140em" src="https://github-readme-stats.vercel.app/api?username=JessicaNepomuceno&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<br />
+<br />
 
+
+  <img align="center" height="140em" src="https://github-readme-stats.vercel.app/api?username=JessicaNepomuceno&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+
+  
+  
 [linkedin]: https://www.linkedin.com/in/jessicanepomuceno/
 [instagram]: https://www.instagram.com/nepomuceno_art/
