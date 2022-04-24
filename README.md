@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://super.abril.com.br/wp-content/uploads/2016/09/super_imggato_digitando_0.gif" width="800" height="290">
+</p>
+
 ### Hi there, I'm Jessica Nepomuceno - Web Developer
 
 ---
@@ -40,12 +44,12 @@
 
 ---
 <a href="https://github.com/JessicaNepomuceno">
-<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JessicaNepomuceno&layout=compact&langs_count=7&theme=dracula"/>
+<img align="center" height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JessicaNepomuceno&layout=compact&langs_count=7&theme=dracula"/>
 
 <br />
 <br />
   
-<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=JessicaNepomuceno&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img align="center" height="140em" src="https://github-readme-stats.vercel.app/api?username=JessicaNepomuceno&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 
 [linkedin]: https://www.linkedin.com/in/jessicanepomuceno/
 [instagram]: https://www.instagram.com/nepomuceno_art/
