@@ -37,14 +37,14 @@ I have knowledge/experience with:
 
 And my soft skills are: 
 
---> Lifelong learning;
---> Analytics;
---> Methodical;
---> Observer;
---> Organized;
---> Results oriented;
---> Thoughtful;
---> Objective;
+--> Lifelong learning;<br />
+--> Analytics;<br />
+--> Methodical;<br />
+--> Observer;<br />
+--> Organized;<br />
+--> Results oriented;<br />
+--> Thoughtful;<br />
+--> Objective;<br />
 
 ### Connect with me:
 
