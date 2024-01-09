@@ -17,23 +17,23 @@ I work with Information of Technology for five years, being that, a little over 
 
 I have knowledge/experience with: 
 
---> .Net (.Net Framework 4.5 and Asp.Net) = 2+ years;
---> Software design pattern MVC = 2+ years;
---> Object Oriented Language C# = 2+ years;
---> Structured query language (SQL) = Procedure/Trigger/Query/Job = 2+ years;
---> Procedural language / Structured query language (PL/SQL) = Less than 1 year;
---> Relational database (SQL Server) = 2+ years;
---> Relational database (Oracle Server) =  Less than 1 year;
---> CSS Framework (Bootstrap) = 2+ years;
---> Language Style a Web page (CSS) = 2+ years;
---> HyperText Markup Language (HTML) = 2+ years;
---> Scripting Language (JS) = 2+ years;
---> JavaScript library (jQuery) = 2+ years;
---> API Rest = 2+ years;
---> Api Soup = Less than 1 year;
---> Tool for team collaboration (Azure DevOps) = Less than 1 year;
---> Tool for team collaboration (TFS) = 2+ years;
---> Version Control (GIT) = Less than 1 year;
+--> .Net (.Net Framework 4.5 and Asp.Net) = 2+ years;<br />
+--> Software design pattern MVC = 2+ years;<br />
+--> Object Oriented Language C# = 2+ years;<br />
+--> Structured query language (SQL) = Procedure/Trigger/Query/Job = 2+ years;<br />
+--> Procedural language / Structured query language (PL/SQL) = Less than 1 year;<br />
+--> Relational database (SQL Server) = 2+ years;<br />
+--> Relational database (Oracle Server) =  Less than 1 year;<br />
+--> CSS Framework (Bootstrap) = 2+ years;<br />
+--> Language Style a Web page (CSS) = 2+ years;<br />
+--> HyperText Markup Language (HTML) = 2+ years;<br />
+--> Scripting Language (JS) = 2+ years;<br />
+--> JavaScript library (jQuery) = 2+ years;<br />
+--> API Rest = 2+ years;<br />
+--> Api Soup = Less than 1 year;<br />
+--> Tool for team collaboration (Azure DevOps) = Less than 1 year;<br />
+--> Tool for team collaboration (TFS) = 2+ years;<br />
+--> Version Control (GIT) = Less than 1 year;<br />
 
 And my soft skills are: 
 
@@ -45,6 +45,7 @@ And my soft skills are:
 --> Results oriented;
 --> Thoughtful;
 --> Objective;
+
 ### Connect with me:
 
 [<img align="left" alt="JessicaNepomuceno | LinkedIn" width="22px" src="./linkedin.svg" />][linkedin]
