@@ -2,59 +2,54 @@
   <img src="https://super.abril.com.br/wp-content/uploads/2016/09/super_imggato_digitando_0.gif" width="800" height="290">
 </p>
 
-### Hi there, I'm Jessica Nepomuceno - Web Developer
+### Hi there, I'm Jessica Nepomuceno - Web Developer and Backend Developer
 
 ---
 
-### I'm a web developer, illustrator, graphic designer, visual artist and beer, olives, theatre, music and sea lover.
+Welcome,
+ 
+I'm a backend developer and web developer. 
 
-- 🔭 I’m currently working with backend and freelance illustrator.
-- 🌱 I’m always a student because we need to continue learning new things. 🤓
-- 👯 I'm collaborative, focused, methodical, analytical, organized and curious.
-- 🎶 Hobbies: draw, draw, draw and draw in my free times.
-- 😄 Pronouns: She/Her.
+I'm from Brazil and I live in the city of Cuiabá in the state of Mato Grosso.
+Currently, i study completely online degree in System Analysis and Development at the University Descomplica.
 
+I work with Information of Technology for five years, being that, a little over two years working as a backend developer and web developer.   
+
+I have knowledge/experience with: 
+
+--> .Net (.Net Framework 4.5 and Asp.Net) = 2+ years;
+--> Software design pattern MVC = 2+ years;
+--> Object Oriented Language C# = 2+ years;
+--> Structured query language (SQL) = Procedure/Trigger/Query/Job = 2+ years;
+--> Procedural language / Structured query language (PL/SQL) = Less than 1 year;
+--> Relational database (SQL Server) = 2+ years;
+--> Relational database (Oracle Server) =  Less than 1 year;
+--> CSS Framework (Bootstrap) = 2+ years;
+--> Language Style a Web page (CSS) = 2+ years;
+--> HyperText Markup Language (HTML) = 2+ years;
+--> Scripting Language (JS) = 2+ years;
+--> JavaScript library (jQuery) = 2+ years;
+--> API Rest = 2+ years;
+--> Api Soup = Less than 1 year;
+--> Tool for team collaboration (Azure DevOps) = Less than 1 year;
+--> Tool for team collaboration (TFS) = 2+ years;
+--> Version Control (GIT) = Less than 1 year;
+
+And my soft skills are: 
+
+--> Lifelong learning;
+--> Analytics;
+--> Methodical;
+--> Observer;
+--> Organized;
+--> Results oriented;
+--> Thoughtful;
+--> Objective;
 ### Connect with me:
 
 [<img align="left" alt="JessicaNepomuceno | LinkedIn" width="22px" src="./linkedin.svg" />][linkedin]
-[<img align="left" alt="JessicaNepomuceno | Instagram" width="22px" src="./instagram.svg" />][instagram]
 
 <br />
 <br />
-
-### Languages and Tools:
-
-<img align="left" alt="CSharp" width="22px" src="./csharp.svg" />
-<img align="left" alt="JavaScript" width="22px" src="./javascript.svg" />
-<img align="left" alt="Css3" width="22px" src="./css3.svg" />
-<img align="left" alt="Html5" width="22px" src="./html5.svg" />
-<img align="left" alt="Photoshop" width="22px" src="./photoshop.svg" />
-<img align="left" alt="Illustrator" width="22px" src="./illustrator.svg" />
-<img align="left" alt="Postman" width="22px" src="./postman.svg" />
-<img align="left" alt="VS Code" width="22px" src="./vscode.svg" />
-<img align="left" alt="Visual Studio" width="22px" src="./visualstudio.svg" />
-<img align="left" alt="Git" width="22px" src="./git.svg" />
-<img align="left" alt="GitHub" width="22px" src="./github.svg" />
-<img align="left" alt="SQL" width="22px" src="./sql.svg" />
-<img align="left" alt="Node" width="22px" src="./node.svg" />
-
-
-<br />
-<br />
-
----
-
-  <a href="https://github.com/JessicaNepomuceno">
-  <img align="center" height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JessicaNepomuceno&layout=compact&langs_count=7&theme=dracula"/>
-
-  
-<br />
-<br />
-
-
-  <img align="center" height="140em" src="https://github-readme-stats.vercel.app/api?username=JessicaNepomuceno&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-
-  
   
 [linkedin]: https://www.linkedin.com/in/jessicanepomuceno/
-[instagram]: https://www.instagram.com/npmcn4rt/
