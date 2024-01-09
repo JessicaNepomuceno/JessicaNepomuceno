@@ -46,7 +46,8 @@ And my soft skills are:
 --> Thoughtful;<br />
 --> Objective;<br />
 
-### Connect with me: [<img align="left" alt="JessicaNepomuceno | LinkedIn" width="22px" src="./linkedin.svg" />][linkedin]
+### Connect with me: 
+[<img align="left" alt="JessicaNepomuceno | LinkedIn" width="22px" src="./linkedin.svg" />][linkedin]
 
 <br />
 <br />
