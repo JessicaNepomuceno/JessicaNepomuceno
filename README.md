@@ -48,8 +48,12 @@ And my soft skills are:
 
 ### Connect with me: 
 [<img align="left" alt="JessicaNepomuceno | LinkedIn" width="22px" src="./linkedin.svg" />][linkedin]
+<br />
+### [My certificates][Certificates]
+
 
 <br />
 <br />
   
 [linkedin]: https://www.linkedin.com/in/jessicanepomuceno/
+[Certificates]: https://github.com/JessicaNepomuceno/Certificates
