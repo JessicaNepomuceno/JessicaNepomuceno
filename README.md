@@ -13,7 +13,7 @@ I'm a backend developer and web developer.
 I'm from Brazil and I live in the city of Cuiabá in the state of Mato Grosso.
 Currently, i study completely online degree in System Analysis and Development at the University Descomplica.
 
-I work with Information of Technology for five years, being that, 3 years working as a backend developer and web developer.   
+I work with Information of Technology for 5 years, being that, 3 years working as a backend developer and web developer.   
 
 I have knowledge/experience with: 
 
