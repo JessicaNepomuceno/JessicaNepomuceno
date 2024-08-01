@@ -2,49 +2,19 @@
   <img src="https://super.abril.com.br/wp-content/uploads/2016/09/super_imggato_digitando_0.gif" width="800" height="290">
 </p>
 
-### Hi there, I'm Jessica Nepomuceno - Web Developer and Backend Developer
+### Hi there, I'm Jessica Nepomuceno - Backend Developer
 
 ---
 
-Welcome,
- 
-I'm a backend developer and web developer. 
+With over three years of experience in the development and maintenance of legacy systems, I have a proven track record of delivering robust and efficient solutions that support critical corporate functions.
 
-I'm from Brazil and I live in the city of Cuiabá in the state of Mato Grosso.
-Currently, i study completely online degree in System Analysis and Development at the University Descomplica.
+I began my career in IT as a technical support specialist, where I gained a solid foundation in maintaining technological infrastructure. This initial experience allowed me to develop essential skills in preventive and corrective maintenance, ensuring the high performance and reliability of systems.
 
-I work with Information of Technology for 5 years, being that, 3 years working as a backend developer and web developer.   
+In my current role, I develop and maintain essential systems that provide critical functionalities, such as analytical reports and registration forms, always adhering to best practices in development and clean code. My significant contributions include the analysis, optimization, and creation of queries, procedures, and triggers that ensure the accuracy and effectiveness of business information. I utilize Agile methodologies, such as Scrum, and version control tools like TFS, Azure DevOps, and Git to ensure continuous and high-quality delivery.
 
-I have knowledge/experience with: 
+Additionally, I had the opportunity to work as a monitor in a Robotics Laboratory, where I taught basic robotics with Arduino and programming with Scratch. This experience allowed me to develop teaching and communication skills, which are fundamental for collaborative work in development teams.
 
---> .Net (.Net Framework 4.5 and Asp.Net) = 2+ years;<br />
---> Software design pattern MVC = 2+ years;<br />
---> Object Oriented Language C# = 2+ years;<br />
---> Structured query language (SQL) = Procedure/Trigger/Query/Job = 2+ years;<br />
---> Procedural language / Structured query language (PL/SQL) = Less than 1 year;<br />
---> Relational database (SQL Server) = 2+ years;<br />
---> Relational database (Oracle Server) =  Less than 1 year;<br />
---> CSS Framework (Bootstrap) = 2+ years;<br />
---> Language Style a Web page (CSS) = 2+ years;<br />
---> HyperText Markup Language (HTML) = 2+ years;<br />
---> Scripting Language (JS) = 2+ years;<br />
---> JavaScript library (jQuery) = 2+ years;<br />
---> API Rest = 2+ years;<br />
---> Api Soup = Less than 1 year;<br />
---> Tool for team collaboration (Azure DevOps) = Less than 1 year;<br />
---> Tool for team collaboration (TFS) = 2+ years;<br />
---> Version Control (GIT) = Less than 1 year;<br />
-
-And my soft skills are: 
-
---> Lifelong learning;<br />
---> Analytics;<br />
---> Methodical;<br />
---> Observer;<br />
---> Organized;<br />
---> Results oriented;<br />
---> Thoughtful;<br />
---> Objective;<br />
+My technical skills include the use of Oracle Server, JavaScript, Git, RabbitMQ, API REST, Object Oriented Language C#, Entity Framework, Bootstrap, Object-Oriented Developer, Azure DevOps, HTML, CSS, .NET Framework, JQuery, TypeScript, SQL Server, TFS.
 
 ### Connect with me: 
 [<img align="left" alt="JessicaNepomuceno | LinkedIn" width="22px" src="./linkedin.svg" />][linkedin]
