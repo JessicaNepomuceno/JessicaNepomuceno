@@ -6,33 +6,55 @@
 
 ---
 
-[ENGLISH] </br>
-With over three years of experience in the development and maintenance of legacy systems, I have a proven track record of delivering robust and efficient solutions that support critical corporate functions.
+[PT-BR]
 
-I began my career in IT as a technical support specialist, where I gained a solid foundation in maintaining technological infrastructure. This initial experience allowed me to develop essential skills in preventive and corrective maintenance, ensuring the high performance and reliability of systems.
+Sou Desenvolvedora Backend .NET C# com mais de 5 anos de experiência no desenvolvimento e evolução de aplicações corporativas. Iniciei minha carreira em suporte técnico e, ao longo da minha trajetória, evoluí para o desenvolvimento de soluções, atuando tanto na criação de novas funcionalidades quanto na manutenção e otimização de sistemas.
 
-In my current role, I develop and maintain essential systems that provide critical functionalities, such as analytical reports and registration forms, always adhering to best practices in development and clean code. My significant contributions include the analysis, optimization, and creation of queries, procedures, and triggers that ensure the accuracy and effectiveness of business information. I utilize Agile methodologies, such as Scrum, and version control tools like TFS, Azure DevOps, and Git to ensure continuous and high-quality delivery.
+Tenho experiência com desenvolvimento backend utilizando .NET e C#, APIs REST, microsserviços, processamento assíncrono, mensageria e bancos de dados relacionais e NoSQL. Também atuo em cenários de alta demanda, com foco em performance, resiliência, qualidade de código e CI/CD, além de experiência com tecnologias como Kafka, Redis, MongoDB, Kubernetes e Docker.
 
-Additionally, I had the opportunity to work as a monitor in a Robotics Laboratory, where I taught basic robotics with Arduino and programming with Scratch. This experience allowed me to develop teaching and communication skills, which are fundamental for collaborative work in development teams.
+Gosto de entender o problema antes de pensar na solução, investigando requisitos, regras de negócio e comportamento das aplicações para tomar decisões técnicas mais adequadas. Tenho perfil de aprendizado contínuo e, atualmente, venho aprofundando meus conhecimentos em arquitetura de software e Inteligência Artificial aplicada ao desenvolvimento de software, especialmente no uso de AI coding agents e ferramentas que podem apoiar o ciclo de desenvolvimento.
 
-My technical skills include the use of Oracle Server, JavaScript, Git, RabbitMQ, API REST, Object Oriented Language C#, Entity Framework, Bootstrap, Object-Oriented Developer, Azure DevOps, HTML, CSS, .NET Framework, JQuery, TypeScript, SQL Server, TFS.
+HABILIDADES <br />
 
----
+Stack principal: <br />
+.Net,  C# , SQL, Azure,  Backend; 
 
-[PORTUGUÊS] </br>
-Com mais de três anos de experiência no desenvolvimento e manutenção de sistemas legados, tenho um histórico comprovado de entrega de soluções robustas e eficientes que suportam funções corporativas críticas.
+Tecnologias: <br />
+Intermediário - .NET, C#, SQL, Bootstrap, CSS, HTML, JavaScript, jQuery, Git, TypeScript, Entity Framework; Em desenvolvimento - .NET 10, Dapper, MongoDB, Kafka, Kubernetes, Redis, xUnit, K6, Polly Circuit Breaker; Familiaridade - PL/SQL, Oracle Server, SOAP API, Azure DevOps, TFS, RabbitMQ, React, Next.js, Jest, Testing Library, Material UI, Node.js, npm, pnpm;
 
-Iniciei minha carreira em TI como especialista em suporte técnico, onde adquiri uma base sólida na manutenção de infraestrutura tecnológica. Essa experiência inicial me permitiu desenvolver habilidades essenciais em manutenção preventiva e corretiva, garantindo o alto desempenho e a confiabilidade dos sistemas.
+Arquitetura e Engenharia: <br />
+Intermediário - Programação Orientada a Objetos; Em desenvolvimento - Clean Architecture, DDD, APIs REST, Testes Unitários, TDD, CI/CD; Familiaridade - Monolítica, Microsserviços, MVC, Event-Driven Architecture, CQRS, Mensageria Assíncrona;
 
-Na minha função atual, desenvolvo e mantenho sistemas essenciais que fornecem funcionalidades críticas, como relatórios analíticos e formulários de registro, sempre aderindo às melhores práticas de desenvolvimento e código limpo. Minhas contribuições significativas incluem a análise, otimização e criação de consultas, procedimentos e gatilhos que garantem a precisão e a eficácia das informações empresariais. Utilizo metodologias ágeis, como Scrum, e ferramentas de controle de versão como TFS, Azure DevOps e Git para garantir uma entrega contínua e de alta qualidade.
-
-Além disso, tive a oportunidade de trabalhar como monitor em um Laboratório de Robótica, onde ensinei robótica básica com Arduino e programação com Scratch. Essa experiência me permitiu desenvolver habilidades de ensino e comunicação, que são fundamentais para o trabalho colaborativo em equipes de desenvolvimento.
-
-Minhas habilidades técnicas incluem o uso de Oracle Server, JavaScript, Git, RabbitMQ, API REST, linguagem orientada a objetos C#, Entity Framework, Bootstrap, desenvolvedor orientado a objetos, Azure DevOps, HTML, CSS, .NET Framework, jQuery, TypeScript, SQL Server e TFS.
+Inteligência Artificial: <br />
+Em desenvolvimento - AI coding agent: Claude Code, Prompt Engineering, AI Agent Extensions: Superpowers/Skills/MCP; Familiaridade - Flow Agents - Coder, Flow Agents - Chat;
 
 ---
 
-### Connect with me: 
+[ENG]
+
+I am a Backend .NET C# Developer with over 5 years of experience developing and evolving corporate applications. I started my career in technical support and, throughout my career, transitioned into software development, working both on creating new features and on maintaining and optimizing systems.
+
+I have experience in backend development using .NET and C#, REST APIs, microservices, asynchronous processing, messaging, and relational and NoSQL databases. I also work with high-demand systems, focusing on performance, resilience, code quality, and CI/CD, with experience in technologies such as Kafka, Redis, MongoDB, Kubernetes, and Docker.
+
+I like to understand the problem before thinking about the solution, investigating requirements, business rules, and application behavior to make more appropriate technical decisions. I have a continuous learning mindset and am currently deepening my knowledge of software architecture and Artificial Intelligence applied to software development, particularly the use of AI coding agents and tools that can support the software development lifecycle.
+
+SKILLS <br />
+
+Primary Stack: <br />
+.NET, C#, SQL, Azure, Backend
+
+Technologies: <br />
+Intermediate – .NET, C#, SQL, Bootstrap, CSS, HTML, JavaScript, jQuery, Git, TypeScript, Entity Framework; Developing – .NET 10, Dapper, MongoDB, Kafka, Kubernetes, Redis, xUnit, K6, Polly Circuit Breaker; Familiar – PL/SQL, Oracle Server, SOAP APIs, Azure DevOps, TFS, RabbitMQ, React, Next.js, Jest, Testing Library, Material UI, Node.js, npm, pnpm
+
+Architecture and Engineering: <br />
+Intermediate – Object-Oriented Programming; Developing – Clean Architecture, DDD, REST APIs, Unit Testing, TDD, CI/CD; Familiar – Monolithic Architecture, Microservices, MVC, Event-Driven Architecture, CQRS, Asynchronous Messaging
+
+Artificial Intelligence: <br />
+Developing – AI Coding Agents: Claude Code; Prompt Engineering; AI Agent Extensions: Superpowers/Skills/MCP; Familiar – Flow Agents: Coder, Flow Agents: Chat
+
+---
+Want to learn more about my professional experience? <br />
+### Connect with me on LinkedIn: 
 [<img align="left" alt="JessicaNepomuceno | LinkedIn" width="22px" src="./linkedin.svg" />][linkedin]
 <br />
 ### [My certificates][Certificates]
